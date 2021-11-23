@@ -1,0 +1,5 @@
+name: MinecraftChallengerPluginJam
+version: ${project.version}
+main: com.plugin.pzyc0.Main
+api-version: 1.17
+authors: [ Me ]
